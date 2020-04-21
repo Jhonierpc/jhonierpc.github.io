@@ -1,5 +1,5 @@
 Este es un ejemplo de Git
 
-Estaremos viendo la configuración de comandos
+Estaremos viendo la configuración de comandos y metodología
 
-Las funcionalidades.
+Las funcionalidades de los comandos.
