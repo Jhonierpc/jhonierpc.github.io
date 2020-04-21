@@ -1,0 +1,5 @@
+Este es un ejemplo de Git
+
+Estaremos viendo la configuración de comandos
+
+Las funcionalidades.
