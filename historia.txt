@@ -2,4 +2,4 @@ Este es un ejemplo de Git
 
 Estaremos viendo la configuración de comandos y metodología
 
-Las funcionalidades de los comandos.
+Hoy hablaremos de su historia.
